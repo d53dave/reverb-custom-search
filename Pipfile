@@ -25,6 +25,8 @@ Flask-SQLAlchemy = "==2.4.0"
 Flask-Migrate = "==2.4.0"
 arrow = "*"
 requests = "*"
+python-telegram-bot = "*"
+apscheduler = "*"
 
 [requires]
 python_version = "3.7"
